@@ -26,7 +26,3 @@ This repository contains assignments completed for the Software Engineering and 
 - Java Development Kit (JDK) 8 or higher
 - Java IDE (NetBeans, IntelliJ IDEA, Eclipse, etc.)
 
-## Author
-
-Misbahul Haque  
-[GitHub Profile](https://github.com/Haque-Misbahul)
